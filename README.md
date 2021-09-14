@@ -7,7 +7,7 @@ public class SumOfArray {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int[]arr = new int[] {1,2,3,4,5};
+        int[]arr = new int[] {3,5,7,8,9};
         int sum = 0;
              
             for(int i=0; i<arr.length; i++){
